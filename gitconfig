@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ts.maira@gmail.com
+	name = Maira Tavares
